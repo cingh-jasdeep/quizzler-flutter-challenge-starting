@@ -1,7 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Quizzler Challenge - Starting Files
+>Fork of https://github.com/londonappbrewery/quizzler-flutter-challenge-starting with updated Flutter Code
 
 - Clone this repository to your local system.
 
